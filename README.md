@@ -1,14 +1,13 @@
-🔭 I’m currently working on ... <b>WorkOverflow</b><br>👯 I’m looking to collaborate on ... <b>BackEnd Developer</b><br>🌱 I’m currently learning ... <b>Flask</b><br>😄 Pronouns: ... <b>He/Him</b><br>💬 Contact/Message me ... <b><u><a href="https://dwijottam-dutta.github.io/portfolio#contact">☎️</a></u></b>
+🔭 I’m currently working on ... <b>PaperDisk</b><br>👯 I’m looking to collaborate on ... <b>BackEnd Developer</b><br>🌱 I’m currently learning ... <b>SQL</b><br>😄 Pronouns: ... <b>He/Him</b><br>💬 Click here ... <b><u><a href="https://dwijottam-dutta.github.io"> ☎️</a></u></b>
 
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?logo=SoundCloud&logoColor=white)](https://soundcloud.com/dj_dwazz) [![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@dj_dwazz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dj_dwazz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DJ_DWAZZ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dj_dwazz) 
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?logo=SoundCloud&logoColor=white)](https://soundcloud.com/dj_dwazz) [![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@dj_dwazz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dj_dwazz)
 
 <br>
 
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-222?style=flat-square&logo=java&logoColor=white) &nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) &nbsp;&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=flat-square&logo=androidstudio&logoColor=%a4c639) 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
