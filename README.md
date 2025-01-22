@@ -28,8 +28,3 @@
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-512BD4?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white) 
 
-<br>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Dwijottam-Dutta&icon=7&color=4)](https://visitcount.itsvg.in)
