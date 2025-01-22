@@ -30,8 +30,6 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwijottam-Dutta&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Dwijottam-Dutta&icon=7&color=4)](https://visitcount.itsvg.in)
