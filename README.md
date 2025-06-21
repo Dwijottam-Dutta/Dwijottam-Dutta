@@ -1,6 +1,6 @@
 🔭 I’m currently working on ... <b>PaperDisk</b><br>🌱 I’m currently learning ... <b>mySQL</b><br>😄 Pronouns: ... <b>He/Him</b><br>💬 Click here ... <b><u><a href="https://dwijottam-dutta.github.io"> ☎️</a></u></b>
 
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?logo=SoundCloud&logoColor=white)](https://soundcloud.com/dj_dwazz) [![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@dj_dwazz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dj_dwazz)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?logo=SoundCloud&logoColor=white)](https://soundcloud.com/dj_dwazz) [![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@dj_dwazz) [![Instagram](https://img.shields.io/badge/Linkedin-687FE5.svg?logo=Linkedin&logoColor=white)](https://instagram.com/dj_dwazz)
 
 <br>
 
