@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dwijottam!!
 👨🏽‍🎓 Electronics & Telecommunication Student<br>🔭 I’m currently working on ... <b>PaperDisk</b><br>🌱 I’m currently learning ... <b>Embedded C</b><br>🎨 Love electronics & programming, composing EDM music<br>
-[![Website](https://img.shields.io/badge/Linkedin-687FE5.svg?logo=Linkedin&logoColor=white)](https://dwijottam-dutta.github.io)
+
+[![Website](https://img.shields.io/badge/Linkedin-687FE5.svg?logo=Website&logoColor=white)](https://dwijottam-dutta.github.io)
 <br>
 ## 💻 Tech Stack:
 
