@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dwijottam!!
-👨🏽‍🎓 Student at [Datta Meghe World Academy](https://dmworldacamdemy.edu.in)<br/>🔭 I’m currently working on ... <b>PaperDisk</b><br>🌱 I’m currently learning ... <b>mySQL and Pandas</b><br>🎨 Love programming, composing EDM music, learning new things<br>
+👨🏽‍🎓 Electronics & Telecommunication Student<br>🔭 I’m currently working on ... <b>PaperDisk</b><br>🌱 I’m currently learning ... <b>Embedded C</b><br>🎨 Love electronics & programming, composing EDM music<br>
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?logo=SoundCloud&logoColor=white)](https://soundcloud.com/dj_dwazz) [![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@dj_dwazz) [![Linkedin](https://img.shields.io/badge/Linkedin-687FE5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dwijottam-dutta/)
 <br>
