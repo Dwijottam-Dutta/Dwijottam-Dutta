@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Dwijottam!!
+# 👋 Hi, I'm Dwijottam Dutta!!
 👨🏽‍🎓 Electronics & Telecommunication Student<br>🔭 I’m currently working on ... <b>PaperDisk</b><br>🌱 I’m currently learning ... <b>Embedded C</b><br>🎨 Love electronics & programming, composing EDM music<br>
 
-[![Website](https://img.shields.io/badge/Linkedin-687FE5.svg?logo=Website&logoColor=white)](https://dwijottam-dutta.github.io)
+[Click here](https://dwijottam-dutta.github.io)
 <br>
 ## 💻 Tech Stack:
 
@@ -15,13 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-FFF?style=flat-square&logo=flask&logoColor=black)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white) &nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) &nbsp;&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)<br>
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Kali%20Linux-333?style=flat-square&logo=kalilinux&logoColor=white) 
-![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-512BD4?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white) 
 
